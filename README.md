@@ -1,2 +1,2 @@
 # tutorialJS
-tutorial gitgggggg
+tutorial gitS
