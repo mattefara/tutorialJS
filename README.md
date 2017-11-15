@@ -1,2 +1,2 @@
 # tutorialJS
-tutorial gitS
+Tutorial per scrittura contratta JS
